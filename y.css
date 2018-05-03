@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 40px;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+h2{
+    font-size: 15px;
+    padding-left: 200px;
+    padding: 1px 0 0 200px;
+}
+#a1{
+    text-decoration: none;
+    color: gray;
+    display: block;
+    float: left;
+    font-size: 15px;
+    margin-top: -40px;
+    margin-left:700px;
+    
+}
+#a1:hover{
+    color: aqua;
+}
+#a2{
+    text-decoration: none;
+    color: aqua;
+    display: block;
+    float: left;
+    font-size:15px;
+    margin-top: -40px;
+    margin-left:800px;
+    transition: background-color 1s;
+}
+
+#a3{
+   text-decoration: none;
+    color: gray;
+    display: block;
+    float: left;
+    font-size:15px;
+    margin-top: -40px;
+    margin-left:900px;
+    transition: background-color 1s;
+}
+#a3:hover{
+    color: aqua;
+}
+#hh21{
+    font-size: 100px;
+    color: aqua;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#s1{
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+#dv1{
+    width: 100px;
+    height: 100px;
+    background-color: #F15959;
+    text-align: center;
+    font-size: 10px;
+    margin-left: 200px;
+    line-height: 100px;
+    border-radius: 50px;
+}
+#p2{
+    font-size: 15px;
+    margin: 0 600px 0 200px;
+}
+#s2{
+    width: 600px;
+    margin-left: 200px;
+}
+#dv2{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    font-size: 10px;
+    line-height: 100px;
+    text-align: center;
+    background-color:#F15959 ;
+    border-radius: 50px;
+    
+}
+#p3{
+    font-size: 15px;
+    margin: 0 600px 0 200px;
+}
+#s3{
+    width: 600px;
+    margin-left: 200px;
+}
+#dv3{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    font-size: 10px;
+    line-height: 100px;
+    text-align: center;
+    background-color:#F15959 ;
+    border-radius: 50px;
+}
+#p4{
+    font-size: 15px;
+    margin: 0 600px 0 200px;
+}
+#footer{
+    width: 100%;
+    height: 250px;
+    background-color: #F15959 ;
+    margin-top: 100px;
+}
+#footer ul{
+    list-style: none;
+}
+#footer a{
+    text-decoration: none;
+    display: block;
+    float: left;
+    margin-top: 100px;
+    margin-left: 200px;
+    
+}
+#hh3{
+    float: right;
+    margin: -100px 830px 0 0;
+    font-size: 20px;
+    color: white;
+}
+
+#hh4{
+    float: right;
+    margin:-100px 450px 0 0;     
+    font-size: 20px;
+    color: white;
+    
+}
+
+
+#hh6{
+    float: right;
+    margin: -100px 100px 0 0 ;
+    font-size: 18px;
+    color: white;
+    
+}

@@ -1,0 +1,19 @@
+#an{
+    width: 200px;
+    height: 200px;
+    margin: 100px auto;
+    border-radius: 400px;
+    background-color: royalblue;
+    transform: rotate(0deg) scale(1,1);
+    font-size: 40px;
+    text-align: center;
+    line-height: 200px;
+}
+@keyframes myAnimation{
+    from{background-color: royalblue;transform: rotate(0deg) scale(1,1);}
+    to{background-color: orange;transform: rotate(360deg) scale(1.5,1.5);}
+}
+@keyframes myAnimation1{
+    from{background-color: orange;transform: rotate(360deg) scale(1.5,1.5);}
+    to{background-color: royalblue;transform: rotate(0deg) scale(1,1);}
+}
